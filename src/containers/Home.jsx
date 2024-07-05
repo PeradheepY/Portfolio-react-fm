@@ -61,7 +61,7 @@ const Home = () => {
 
           {/* hire me */}
           <a
-            href="https://drive.google.com/file/d/1tCdXDMYq6gSrgaghSqBn4m8hW_bhtZ1P/view?usp=sharing"
+            href="https://drive.google.com/file/d/1i7piFWQSdVADb9wo5xrJMoKETJa63eRE/view?usp=sharing"
             style={{ boxShadow: "inset 0px 0px 10px rgba(255,255,255,0.3)" }}
             className="mt-12 border border-[rgba(255,255,255,0.3)]
             rounded-xl px-8 py-3 active:95 group hover:border-primary"

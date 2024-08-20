@@ -83,7 +83,7 @@ export const ProjectsData = [
     id: `food-${Date.now()}`,
     name: "CineCompass",
     imgSrc: CineCompass,
-    gitURL: "https://github.com/PeradheepY/cine-compass",
+    gitURL: "https://github.com/PeradheepY/cinecompass-MERN",
   },
   {
     id: `codepen-${Date.now()}`,
